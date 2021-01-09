@@ -1,0 +1,15 @@
+
+ .navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+.navbar-collapse {
+    justify-content: space-between;
+}
+.dropdown-menu.show {
+    background-color: black;
+}
+
+.dropdown-toggle::after {
+    border-right: black; 
+    border-left: black; 
+}
